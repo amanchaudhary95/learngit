@@ -1,7 +1,1 @@
-This is a sample file
-created to explain the concepts of GIT
-
-Treat this as Sample-1
-
-Another line edited
-One more line edited
+New line
