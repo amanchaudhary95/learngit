@@ -1,6 +1,6 @@
 
-new line
-change 1
+:wq
+change 2
 another line
 another new line
 new line added
